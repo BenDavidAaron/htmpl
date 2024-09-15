@@ -1,0 +1,1 @@
+cargo run -- test/templates test/pages test/base.html 
