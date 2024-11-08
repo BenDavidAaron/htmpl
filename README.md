@@ -14,5 +14,5 @@ A barebones static site generator for a personal project.
 reference the `test` dir for structure and content.
 
 ## Installation
-1. `cargo build --relase`
+1. `cargo build --release`
 2. `cp target/release/htmpl ./some/directory/in/your/path`
